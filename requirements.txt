@@ -1,0 +1,9 @@
+bertopic
+python-docx
+nltk
+pypdf
+sentence-transformers
+scikit-learn
+pandas
+ipython
+torch
